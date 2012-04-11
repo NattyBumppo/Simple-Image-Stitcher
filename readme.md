@@ -6,4 +6,4 @@ This project was written in C++, using the [Qt](http://qt.nokia.com/products/) f
 
 # Credits
 
-For this application,[Larry Zitnick](http://research.microsoft.com/en-us/people/larryz/) at Microsoft Research wrote the majority of the UI code and the high-level architecture, and [Nat Guy](http://www.natguy.net) wrote the majority of the majority of the actual image processing and stitching code.
+For this application, [Larry Zitnick](http://research.microsoft.com/en-us/people/larryz/) at Microsoft Research wrote the majority of the UI code and the high-level architecture, and [Nat Guy](http://www.natguy.net) wrote the majority of the actual image processing and stitching code.
